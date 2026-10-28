@@ -1,3 +1,29 @@
+<!-- gully-header:start -->
+<p align="center">
+  <a href="https://gullyai.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gullyai-logo-transparent.png">
+      <img alt="Gully AI" src=".github/assets/gullyai-logo-on-dark-2172x724.png" width="320">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><b>Open-weight LLM API, self-hosted for every Gully product.</b></p>
+
+<p align="center">OpenClaw, the self-hosted AI assistant runtime evaluated for Gully AI agents.</p>
+
+<p align="center">
+  <a href="https://gullyai.xyz"><img src="https://img.shields.io/badge/gullyai.xyz-00F0F2?style=for-the-badge&labelColor=03070B&logo=googlechrome&logoColor=03070B" alt="Website"></a>
+  <a href="https://docs.gullyai.xyz"><img src="https://img.shields.io/badge/Docs-05090D?style=for-the-badge&labelColor=03070B&logo=readthedocs&logoColor=00F0F2" alt="Docs"></a>
+  <a href="https://discord.com/invite/tY2ErsNNBp"><img src="https://img.shields.io/badge/Discord-05090D?style=for-the-badge&labelColor=03070B&logo=discord&logoColor=5865F2" alt="Discord"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-05090D?style=for-the-badge&labelColor=03070B&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+<p align="center"><sub>A Gully AI fork of <a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a>, maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. It is used under its MIT licence; the upstream LICENSE, copyright and attribution notices are kept unchanged. The upstream README follows below as published. Not affiliated with or endorsed by openclaw.</sub></p>
+
+---
+<!-- gully-header:end -->
+
 # OpenClaw 🦞 — Your assistant, on your devices, in your chats
 
 <p align="center">
@@ -329,3 +355,17 @@ clawtributors:hidden:end -->
 ## License
 
 [MIT](LICENSE) © OpenClaw Foundation. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for incorporated or adapted code.
+
+
+<!-- gully-footer:start -->
+---
+
+<p align="center">
+  <a href="https://gullylabs.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/powered-by-gully-labs-dark-2x.png">
+      <img alt="Powered by Gully Labs" src=".github/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
+    </picture>
+  </a>
+</p>
+<!-- gully-footer:end -->
